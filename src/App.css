@@ -1,0 +1,28 @@
+@import url('./assets/fonts/stylesheet.css');
+@import url('./assets/css/bootstrap.css');
+
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #7286D3;
+}
+
+.ff-nunito {
+  font-family: 'Nunito Regular', sans-serif;
+}
+
+.card-bg {
+  background-color: #e5e0ff;
+}
+
+.card-detail-bg{
+background-color: #8EA7E9;
+
+}
+
